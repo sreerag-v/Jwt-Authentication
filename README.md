@@ -6,14 +6,12 @@ JWT authentication seamlessly integrates secure user access into an admin dashbo
 # Framework
 
 Gin-Gonic
-
 ```bash
   go get -u github.com/gin-gonic/gin
 ```
 # Database 
 
 PostgreSQL
-
 ```bash
   go get -u gorm.io/driver/postgres
 
